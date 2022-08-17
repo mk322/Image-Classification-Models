@@ -1,7 +1,3 @@
-""" helper function
-
-author baiyu
-"""
 import os
 import sys
 import re
